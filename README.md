@@ -1,4 +1,5 @@
 ## Power BI Global Superstore Sales Analysis
+
 ### Overview
 This project aims to provide a comprehensive analysis of the Global Superstore Sales dataset using Power BI. The analysis focuses on understanding key sales metrics, such as total sales, profit margins, sales performance by region, category, and time periods, as well as identifying trends, patterns, and areas for improvement.
 
